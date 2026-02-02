@@ -1,0 +1,522 @@
+[
+	{
+		"game": "4 Wheel Thunder",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "4bd3df4",
+				"status": "Playable",
+				"notes": "Intro video is very choppy. Loading screen rely on frame buffer writes (background is rendered only once then the loading bar is drawn on top of it)."
+			}
+		]
+	},
+	{
+		"game": "90 minutes",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "582b0f512d94b1ed02724579210aa1ca53f0cf5e",
+				"status": "Playable",
+				"notes": "(More testing needed)"
+			}
+		]
+	},
+	{
+		"game": "AeroWings",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "7a33702c5cecffd3698d887fc9781980c6ec58c6",
+				"status": "In Game",
+				"notes": "(More testing needed)"
+			}
+		]
+	},
+	{
+		"game": "Angel Present",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "7a33702c5cecffd3698d887fc9781980c6ec58c6",
+				"status": "In Game",
+				"notes": "(More testing needed)"
+			}
+		]
+	},
+	{
+		"game": "Animastar",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "d858d1e",
+				"status": "In Game",
+				"notes": "(More testing needed)"
+			}
+		]
+	},
+	{
+		"game": "Armada",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"commit": "d858d1e",
+				"status": "In Game",
+				"notes": "Extremely slow (constant JIT invalidation, \"Hash\" block invalidation strategy helps a lot, but isn't enough)"
+			}
+		]
+	},
+	{
+		"game": "Blue Stinger",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "878f2cd7b0c9be287145ed2b6162e704b4233ed9",
+				"status": "In Game",
+				"notes": "No known issue"
+			}
+		]
+	},
+	{
+		"game": "Chu Chu Rocket!",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
+				"status": "Playable",
+				"notes": "No known issue"
+			}
+		]
+	},
+	{
+		"game": "Crazy Taxi",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "dd0456f",
+				"status": "Playable",
+				"notes": "No known issue"
+			}
+		]
+	},
+	{
+		"game": "Dead or Alive 2",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
+				"status": "Playable",
+				"notes": "Minor graphical issues (corrupted translucent textures)"
+			}
+		]
+	},
+	{
+		"game": "Demolition Racer",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "ca3fb92363253648dd6b50b660653ce7dc86bdab",
+				"status": "Playable",
+				"notes": ""
+			}
+		]
+	},
+	{
+		"game": "Ecco the Dolphin: Defender of the future",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "58531eaba182f7e0e64715e3b1390be6a1a8180d",
+				"status": "Playable",
+				"notes": "Background issue? (Black horizon in first level, disappearing splash screen during loading)"
+			}
+		]
+	},
+	{
+		"game": "F355 Challenge - Passione Rossa",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "c0db07ffa334113b6c39f042f6355accba6815a8",
+				"status": "In Game",
+				"notes": "Flickering during startup logos"
+			}
+		]
+	},
+	{
+		"game": "Grandia II",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "58531eaba182f7e0e64715e3b1390be6a1a8180d",
+				"status": "Playable",
+				"notes": "Names of items looted at the end of a battle are very rarely visually corrupted. No other know issue. [Can be completed :)]"
+			}
+		]
+	},
+	{
+		"game": "Guilty Gear X",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "75bb062ea08bf0735020c9b0b97d84e50f2f3ee3",
+				"status": "In Game",
+				"notes": "No known issue"
+			}
+		]
+	},
+	{
+		"game": "Ikaruga",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "50403fe",
+				"status": "In Game",
+				"notes": ""
+			}
+		]
+	},
+	{
+		"game": "Jet Set Radio",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "dd0456f",
+				"status": "In Game",
+				"notes": "Graphical issues (shadows/modvol on the main character). Requires a bad hack in GD-DMA. Need more testing."
+			}
+		]
+	},
+	{
+		"game": "Kitahei Gold",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
+				"status": "In Game",
+				"notes": "WinCE game"
+			}
+		]
+	},
+	{
+		"game": "Legacy of Kain - Soul Reaver",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "907cc6c",
+				"status": "In Game",
+				"notes": "Sound issues. Inputs are... weird?"
+			}
+		]
+	},
+	{
+		"game": "MDK 2",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "c0db07ffa334113b6c39f042f6355accba6815a8",
+				"status": "In Game",
+				"notes": "Sound (Music?) issues"
+			}
+		]
+	},
+	{
+		"game": "Metropolis Street Racer",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "1350cbc",
+				"status": "Playable",
+				"notes": ""
+			}
+		]
+	},
+	{
+		"game": "Mortal Kombat Gold",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "1350cbc",
+				"status": "In Game",
+				"notes": "Crackling sound"
+			}
+		]
+	},
+	{
+		"game": "Phantasy Star Online",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
+				"status": "Playable",
+				"notes": ""
+			}
+		]
+	},
+	{
+		"game": "Power Stone",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "b26c1cbdc726b20a77f3bebe84581f08075b9079",
+				"status": "Playable",
+				"notes": "Transparency issues in the menus (character select and loading screen for example): Depth precision issue? Depths of vertices are equal, they should sorted by drawing order (indices)"
+			}
+		]
+	},
+	{
+		"game": "Power Stone 2",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "4d1f6b161f69d23dacc14de2fb7fc86655280245",
+				"status": "Playable",
+				"notes": "No know issue. Weird read to reserved P4 space before stage select (a039a75)"
+			}
+		]
+	},
+	{
+		"game": "Project Justice",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "adaff15d2a18fd2eea7cc2ea23f45b63569eac8e",
+				"status": "In Game",
+				"notes": "Weird floor texture scrolling?"
+			}
+		]
+	},
+	{
+		"game": "Quake III Arena",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "5069c90",
+				"status": "In Game",
+				"notes": "Trigger inputs are broken (the only way to shoot is to pause...)."
+			}
+		]
+	},
+	{
+		"game": "Rayman 2 - The Great Escape",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
+				"status": "In Game",
+				"notes": "Some weirdness with the inputs?"
+			}
+		]
+	},
+	{
+		"game": "Resident Evil - Code Veronica",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "7a33702c5cecffd3698d887fc9781980c6ec58c6",
+				"status": "Playable",
+				"notes": ""
+			}
+		]
+	},
+	{
+		"game": "Resident Evil 2",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"commit": "ca3fb92363253648dd6b50b660653ce7dc86bdab",
+				"status": "In Game",
+				"notes": "Slow (everywhere, but seems especially stupid during cutscenes with lots of JIT invalidation). VMU not recognized?"
+			}
+		]
+	},
+	{
+		"game": "Re-Volt",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "c437270",
+				"status": "In Game",
+				"notes": "-"
+			}
+		]
+	},
+	{
+		"game": "Rune Jade",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"commit": "5988993bc8170e2a6d6a2ea2e806c10e4e00d043",
+				"status": "In Game",
+				"notes": "(English Patched) WinCE: Basically the same issues as Resident Evil 2."
+			}
+		]
+	},
+	{
+		"game": "Sega Rally 2",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"commit": "6451284b01737817443eb64197aea00403ee8fbc",
+				"status": "Playable",
+				"notes": "WinCE game"
+			}
+		]
+	},
+	{
+		"game": "Shenmue",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
+				"status": "Playable",
+				"notes": "No known issue (maybe in the sound volume/mixing?)"
+			}
+		]
+	},
+	{
+		"game": "Sonic Adventure",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "e563dbb",
+				"status": "Playable",
+				"notes": "-"
+			}
+		]
+	},
+	{
+		"game": "Soul Calibur",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "e563dbb",
+				"status": "Playable",
+				"notes": "See #12, #54"
+			}
+		]
+	},
+	{
+		"game": "Soul Fighter",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
+				"status": "In Game",
+				"notes": "Complains about the VGA cable. Can be manually solved. No known issue (barely tested)."
+			}
+		]
+	},
+	{
+		"game": "South Park Rally",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "5e2c8c6",
+				"status": "Intro",
+				"notes": "Stuck on loading screen (with a missing sprite)"
+			}
+		]
+	},
+	{
+		"game": "Speed Devils",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "e563dbb",
+				"status": "Playable",
+				"notes": "No know issue."
+			}
+		]
+	},
+	{
+		"game": "Super Robot Wars Alpha",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
+				"status": "In Game",
+				"notes": "WinCE game"
+			}
+		]
+	},
+	{
+		"game": "Suzuki Alstare Extreme Racing",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "ca3fb92363253648dd6b50b660653ce7dc86bdab",
+				"status": "Playable",
+				"notes": ""
+			}
+		]
+	},
+	{
+		"game": "The Lost Golem",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "16588b4",
+				"status": "In Game",
+				"notes": ""
+			}
+		]
+	},
+	{
+		"game": "Toy Commander",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
+				"status": "Playable",
+				"notes": "Pause screen requires framebuffer emulation. No other known issue."
+			}
+		]
+	},
+	{
+		"game": "Trickstyle",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
+				"status": "In Game",
+				"notes": "Complains about the VGA cable. Can be manually solved. No known issue."
+			}
+		]
+	},
+	{
+		"game": "Virtua Tennis 2",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
+				"status": "Playable",
+				"notes": "Turn off 'Render to Guest VRAM' to speed up replays"
+			}
+		]
+	},
+	{
+		"game": "World Neverland Plus",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
+				"status": "Intro",
+				"notes": "Refuses to start with VGA (probably expected), and gets stuck with RGB. Changing the cable type from a save state allows it to go a bit further (some audio plays, but renders nothing)."
+			}
+		]
+	}
+]
