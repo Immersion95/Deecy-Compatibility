@@ -180,6 +180,9 @@
 	{
 		"game": "Jet Set Radio",
 		"tags": [],
+		"linked_issues": [
+			95
+		],
 		"status_reports": [
 			{
 				"commit": "dd0456f",
@@ -197,7 +200,7 @@
 			{
 				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
 				"status": "In Game",
-				"notes": "WinCE game"
+				"notes": ""
 			}
 		]
 	},
@@ -355,7 +358,7 @@
 			{
 				"commit": "5988993bc8170e2a6d6a2ea2e806c10e4e00d043",
 				"status": "In Game",
-				"notes": "(English Patched) WinCE: Basically the same issues as Resident Evil 2."
+				"notes": "(English Patched) Slow. 'Hash' block invalidation helps."
 			}
 		]
 	},
@@ -386,22 +389,29 @@
 	{
 		"game": "Sonic Adventure",
 		"tags": [],
+		"linked_issues": [
+			156
+		],
 		"status_reports": [
 			{
 				"commit": "e563dbb",
 				"status": "Playable",
-				"notes": "-"
+				"notes": ""
 			}
 		]
 	},
 	{
 		"game": "Soul Calibur",
 		"tags": [],
+		"linked_issues": [
+			12,
+			54
+		],
 		"status_reports": [
 			{
 				"commit": "e563dbb",
 				"status": "Playable",
-				"notes": "See #12, #54"
+				"notes": "Very small graphical issues."
 			}
 		]
 	},
@@ -447,7 +457,7 @@
 			{
 				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
 				"status": "In Game",
-				"notes": "WinCE game"
+				"notes": ""
 			}
 		]
 	},
@@ -486,7 +496,9 @@
 	},
 	{
 		"game": "Trickstyle",
-		"tags": [],
+		"tags": [
+			"No VGA"
+		],
 		"status_reports": [
 			{
 				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
@@ -502,14 +514,15 @@
 			{
 				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
 				"status": "Playable",
-				"notes": "Turn off 'Render to Guest VRAM' to speed up replays"
+				"notes": "Turn off 'Copy to Guest VRAM' to speed up replays"
 			}
 		]
 	},
 	{
 		"game": "World Neverland Plus",
 		"tags": [
-			"WinCE"
+			"WinCE",
+			"No VGA"
 		],
 		"status_reports": [
 			{
