@@ -11,6 +11,22 @@
 		]
 	},
 	{
+		"game": "4x4 Evolution",
+		"tags": [
+			"WinCE"
+		],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "683bdec",
+				"game_version": "T41903N V1.001",
+				"status": "In Game",
+				"notes": "Constant JIT invalidation: Use 'Hash' block invalidation strategy. Long black screen before menus and after trying to start a race. Slow frame every few seconds when the JIT cache is full. Crash after a while: 'Failed to compile 0014E5A0: IllegalInstruction'."
+			}
+		]
+	},
+	{
 		"game": "90 minutes",
 		"tags": [],
 		"status_reports": [
