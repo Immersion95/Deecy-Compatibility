@@ -169,6 +169,9 @@
 	{
 		"game": "Ikaruga",
 		"tags": [],
+		"linked_issues": [
+			143
+		],
 		"status_reports": [
 			{
 				"commit": "50403fe",
@@ -212,6 +215,38 @@
 				"commit": "907cc6c",
 				"status": "In Game",
 				"notes": "Sound issues. Inputs are... weird?"
+			}
+		]
+	},
+	{
+		"game": "Marvel vs. Capcom - Clash of Super Heroes",
+		"tags": [],
+		"linked_issues": [
+			167
+		],
+		"status_reports": [
+			{
+				"version": "0.6.0",
+				"commit": "da2178a20c13eea0860ba831c07092416315d5bd",
+				"game_version": "T1202M V1.003",
+				"status": "Playable",
+				"notes": "Long pause waiting on missed GDROM DMA interrupt (240p mode only) (issue #167)."
+			}
+		]
+	},
+	{
+		"game": "Marvel vs. Capcom 2",
+		"tags": [],
+		"linked_issues": [
+			129
+		],
+		"status_reports": [
+			{
+				"version": "0.6.0",
+				"commit": "da2178a20c13eea0860ba831c07092416315d5bd",
+				"game_version": "T1212N V1.001",
+				"status": "Playable",
+				"notes": "Corrupted sprites during the intro (issue #129)."
 			}
 		]
 	},
@@ -417,7 +452,9 @@
 	},
 	{
 		"game": "Soul Fighter",
-		"tags": [],
+		"tags": [
+			"No VGA"
+		],
 		"status_reports": [
 			{
 				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
@@ -429,7 +466,17 @@
 	{
 		"game": "South Park Rally",
 		"tags": [],
+		"linked_issues": [
+			179
+		],
 		"status_reports": [
+			{
+				"version": "0.6.0",
+				"commit": "da2178a20c13eea0860ba831c07092416315d5bd",
+				"game_version": "T-8116N V1.001",
+				"status": "In Game",
+				"notes": "Rendering issue in the car selection screen (issue #179). Barely tested."
+			},
 			{
 				"commit": "5e2c8c6",
 				"status": "Intro",
