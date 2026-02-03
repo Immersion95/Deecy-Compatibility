@@ -517,6 +517,20 @@
 		]
 	},
 	{
+		"game": "Sonic Adventure 2",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "de440cc",
+				"game_version": "MK-5111750V1.008",
+				"status": "In Game",
+				"notes": "Some texts are mirrored horizontally. Reloading a save state fixes it: Texture cache issue?"
+			}
+		]
+	},
+	{
 		"game": "Soul Calibur",
 		"tags": [],
 		"linked_issues": [
