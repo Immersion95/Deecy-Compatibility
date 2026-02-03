@@ -219,7 +219,7 @@
 				"commit": "de440cc",
 				"game_version": "HDR-0071  V1.000",
 				"status": "In Game",
-				"notes": ""
+				"notes": "No know issue."
 			}
 		]
 	},
@@ -252,6 +252,20 @@
 				"commit": "75bb062ea08bf0735020c9b0b97d84e50f2f3ee3",
 				"status": "In Game",
 				"notes": "No known issue"
+			}
+		]
+	},
+	{
+		"game": "Heavy Metal: Geomatrix",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "de440cc",
+				"game_version": "T1223N    V1.001",
+				"status": "In Game",
+				"notes": "No know issue."
 			}
 		]
 	},
