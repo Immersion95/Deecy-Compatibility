@@ -1,0 +1,70 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "array",
+	"items": {
+		"type": "object",
+		"properties": {
+			"game": {
+				"type": "string",
+				"description": "The title of the game."
+			},
+			"tags": {
+				"type": "array",
+				"items": {
+					"type": "string"
+				},
+				"description": "Tags identifying specific features or requirements (e.g., WinCE, No VGA)."
+			},
+			"linked_issues": {
+				"type": "array",
+				"items": {
+					"type": "integer"
+				},
+				"description": "IDs of GitHub issues related to this game."
+			},
+			"status_reports": {
+				"type": "array",
+				"items": {
+					"type": "object",
+					"properties": {
+						"commit": {
+							"type": "string",
+							"description": "The git commit hash used for testing."
+						},
+						"status": {
+							"type": "string",
+							"enum": [
+								"Playable",
+								"In Game",
+								"Intro",
+								"Nothing"
+							],
+							"description": "The compatibility status."
+						},
+						"notes": {
+							"type": "string",
+							"description": "Observations and known issues."
+						},
+						"version": {
+							"type": "string",
+							"description": "The emulator version number (optional)."
+						},
+						"game_version": {
+							"type": "string",
+							"description": "The specific version or region of the game tested (optional)."
+						}
+					},
+					"required": [
+						"status",
+						"notes"
+					]
+				}
+			}
+		},
+		"required": [
+			"game",
+			"tags",
+			"status_reports"
+		]
+	}
+}
