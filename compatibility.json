@@ -208,6 +208,22 @@
 		]
 	},
 	{
+		"game": "Get!! Colonies",
+		"tags": [
+			"WinCE"
+		],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "de440cc",
+				"game_version": "HDR-0071  V1.000",
+				"status": "In Game",
+				"notes": ""
+			}
+		]
+	},
+	{
 		"game": "Grandia II",
 		"tags": [],
 		"status_reports": [
