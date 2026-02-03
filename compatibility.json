@@ -89,6 +89,13 @@
 		"status_reports": [
 			{
 				"version": "0.6.0+",
+				"commit": "de440ccd5e80e2587863f61ba565e6a8cfd7b8a6",
+				"game_version": "T40217N   V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			},
+			{
+				"version": "0.6.0+",
 				"commit": "81712d6",
 				"game_version": "T40217N   V1.001",
 				"status": "Nothing",
