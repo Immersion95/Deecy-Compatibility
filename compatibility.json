@@ -270,6 +270,20 @@
 		]
 	},
 	{
+		"game": "Hydro Thunder",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "de440cc",
+				"game_version": "T-9702N   V1.020",
+				"status": "Playable",
+				"notes": "No know issue."
+			}
+		]
+	},
+	{
 		"game": "Ikaruga",
 		"tags": [],
 		"linked_issues": [
