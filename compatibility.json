@@ -400,7 +400,8 @@
 			{
 				"commit": "5988993bc8170e2a6d6a2ea2e806c10e4e00d043",
 				"status": "In Game",
-				"notes": "(English Patched) Slow. 'Hash' block invalidation helps."
+				"game_version": "T14304M V1.027 - English Patched",
+				"notes": "Slow. 'Hash' block invalidation helps."
 			}
 		]
 	},
