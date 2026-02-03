@@ -84,6 +84,19 @@
 		]
 	},
 	{
+		"game": "Bangai-O",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "81712d6",
+				"game_version": "T40217N   V1.001",
+				"status": "Nothing",
+				"notes": "Crash on startup. error(dc): Invalid _get_memory @1C52EF10 [...] error(aica): AICA DMA out of bounds! Root Bus Address: 0x0CFFF820, length: 0x000007E0 => 0x0D000000"
+			}
+		]
+	},
+	{
 		"game": "Blue Stinger",
 		"tags": [],
 		"status_reports": [
@@ -163,9 +176,16 @@
 		"tags": [],
 		"status_reports": [
 			{
+				"version": "0.6.0+",
+				"commit": "81712d6",
+				"game_version": "MK-5103350V1.003",
+				"status": "In Game",
+				"notes": "Sends some invalid polygons (1-2 vertices), but with no visible effect. No known issue, but not heavily tested."
+			},
+			{
 				"commit": "58531eaba182f7e0e64715e3b1390be6a1a8180d",
-				"status": "Playable",
-				"notes": "Background issue? (Black horizon in first level, disappearing splash screen during loading)"
+				"status": "In Game",
+				"notes": "Background issue? (Black horizon in first level, disappearing splash screen during loading) #163"
 			}
 		]
 	},

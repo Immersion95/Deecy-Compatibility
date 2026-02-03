@@ -36,6 +36,7 @@
 							"enum": [
 								"Playable",
 								"In Game",
+								"Menu",
 								"Intro",
 								"Nothing"
 							],
