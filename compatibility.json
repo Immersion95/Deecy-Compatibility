@@ -188,6 +188,13 @@
 		],
 		"status_reports": [
 			{
+				"version": "0.6.0",
+				"commit": "da2178a20c13eea0860ba831c07092416315d5bd",
+				"game_version": "T1202M V1.003",
+				"status": "In Game",
+				"notes": "Requires a bad hack in GD-DMA (see #95). Needs more testing."
+			},
+			{
 				"commit": "dd0456f",
 				"status": "In Game",
 				"notes": "Graphical issues (shadows/modvol on the main character). Requires a bad hack in GD-DMA. Need more testing."
