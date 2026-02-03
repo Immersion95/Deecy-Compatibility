@@ -96,7 +96,20 @@
 			{
 				"commit": "dd0456f",
 				"status": "Playable",
-				"notes": "No known issue"
+				"notes": "Z-fighting"
+			}
+		]
+	},
+	{
+		"game": "Crazy Taxi 2",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "683bdec5b7b9947cdcfd4f01d192cf142242b951",
+				"game_version": "MK-51136 V1.004",
+				"status": "Playable",
+				"notes": "Z-fighting"
 			}
 		]
 	},
@@ -104,6 +117,13 @@
 		"game": "Dead or Alive 2",
 		"tags": [],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "683bdec5b7b9947cdcfd4f01d192cf142242b951",
+				"game_version": "T8116D 50V1.000",
+				"status": "Playable",
+				"notes": "Some fading transitions require both 'Framebuffer emulation' and 'Copy to Guest VRAM' to be enabled to work as expected."
+			},
 			{
 				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
 				"status": "Playable",
@@ -158,7 +178,17 @@
 	{
 		"game": "Guilty Gear X",
 		"tags": [],
+		"linked_issues": [
+			174
+		],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "683bdec5b7b9947cdcfd4f01d192cf142242b951",
+				"game_version": "T-2402M V2.000",
+				"status": "Playable",
+				"notes": "Volume too low?"
+			},
 			{
 				"commit": "75bb062ea08bf0735020c9b0b97d84e50f2f3ee3",
 				"status": "In Game",
@@ -500,6 +530,22 @@
 				"commit": "e563dbb",
 				"status": "Playable",
 				"notes": "No know issue."
+			}
+		]
+	},
+	{
+		"game": "Super Puzzle Fighter II X for Matching Service",
+		"tags": [],
+		"linked_issues": [
+			165
+		],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "683bdec",
+				"game_version": "T1250M V1.001",
+				"status": "Playable",
+				"notes": "Flickering background (issue #165)"
 			}
 		]
 	},
