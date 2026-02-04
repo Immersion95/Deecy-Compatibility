@@ -635,6 +635,20 @@
 		]
 	},
 	{
+		"game": "Street Fighter Alpha 3",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be7",
+				"game_version": "T7005D  50V1.000",
+				"status": "Playable",
+				"notes": "No known issue"
+			}
+		]
+	},
+	{
 		"game": "Super Puzzle Fighter II X for Matching Service",
 		"tags": [],
 		"linked_issues": [
