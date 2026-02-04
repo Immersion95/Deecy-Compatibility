@@ -710,6 +710,19 @@
 		]
 	},
 	{
+		"game": "Virtua Tennis",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be7",
+				"game_version": "MK-5105450V1.001",
+				"status": "Playable",
+				"notes": "Replays can be a bit janky. Turning off 'Copy to Guest VRAM' might help, but it probably needs more work."
+			}
+		]
+	},
+	{
 		"game": "Virtua Tennis 2",
 		"tags": [],
 		"status_reports": [
