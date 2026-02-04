@@ -734,6 +734,18 @@
 		]
 	},
 	{
+		"game": "Volgarr the Viking",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be7",
+				"status": "Playable",
+				"notes": "Inconsistent frame time, because of the 30FPS target?"
+			}
+		]
+	},
+	{
 		"game": "World Neverland Plus",
 		"tags": [
 			"WinCE",
