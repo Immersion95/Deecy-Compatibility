@@ -270,15 +270,20 @@
 		"status_reports": [
 			{
 				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
+				"notes": ""
+			},
+			{
+				"version": "0.6.0+",
 				"commit": "81712d6",
 				"game_version": "MK-5103350V1.003",
 				"status": "In Game",
 				"notes": "Sends some invalid polygons (1-2 vertices), but with no visible effect. No known issue, but not heavily tested."
 			},
 			{
-				"version": "0.6.0+",
-				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
-				"status": "Playable",
+				"commit": "58531eaba182f7e0e64715e3b1390be6a1a8180d",
+				"status": "In Game",
 				"notes": "Background issue? (Black horizon in first level, disappearing splash screen during loading) #163"
 			}
 		]
@@ -438,6 +443,11 @@
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
 				"status": "Playable",
 				"notes": ""
+			},
+			{
+				"commit": "50403fe",
+				"status": "In Game",
+				"notes": ""
 			}
 		]
 	},
@@ -563,6 +573,11 @@
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
 				"status": "Playable",
 				"notes": "Crackling sound"
+			},
+			{
+				"commit": "1350cbc",
+				"status": "In Game",
+				"notes": "Crackling sound"
 			}
 		]
 	},
@@ -635,6 +650,11 @@
 				"version": "0.6.0+",
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
 				"status": "Playable",
+				"notes": "Weird floor texture scrolling?"
+			},
+			{
+				"commit": "adaff15d2a18fd2eea7cc2ea23f45b63569eac8e",
+				"status": "In Game",
 				"notes": "Weird floor texture scrolling?"
 			}
 		]
@@ -1063,6 +1083,11 @@
 				"status": "Menu",
 				"notes": "Pressing Start in the menu causes the game to freeze.",
 				"version": "0.6.0+"
+			},
+			{
+				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
+				"status": "In Game",
+				"notes": "Complains about the VGA cable. Can be manually solved. No known issue."
 			}
 		],
 		"linked_issues": [
