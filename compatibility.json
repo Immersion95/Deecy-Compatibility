@@ -115,6 +115,92 @@
 		]
 	},
 	{
+		"game": "Border Down",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T46703M V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Cannon Spike",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1219M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Capcom Taisen Fan Disc",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "6108086 V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Capcom vs. SNK 2: Mark of the Millennium 2001",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1249M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Capcom vs. SNK: Millennium Fight 2000",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1217M V2.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Capcom vs. SNK: Millennium Fight 2000 Pro",
+		"tags": [],
+		"linked_issues": [
+			147
+		],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1247M V1.001",
+				"status": "Playable",
+				"notes": "Ending portraits missing (depth issue)."
+			}
+		]
+	},
+	{
 		"game": "Chu Chu Rocket!",
 		"tags": [],
 		"status_reports": [
@@ -190,8 +276,9 @@
 				"notes": "Sends some invalid polygons (1-2 vertices), but with no visible effect. No known issue, but not heavily tested."
 			},
 			{
-				"commit": "58531eaba182f7e0e64715e3b1390be6a1a8180d",
-				"status": "In Game",
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
 				"notes": "Background issue? (Black horizon in first level, disappearing splash screen during loading) #163"
 			}
 		]
@@ -208,6 +295,34 @@
 		]
 	},
 	{
+		"game": "Fighting Vipers 2",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "HDR-0133 V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Garou: Mark of the Wolves",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T3108M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Get!! Colonies",
 		"tags": [
 			"WinCE"
@@ -220,6 +335,20 @@
 				"game_version": "HDR-0071  V1.000",
 				"status": "In Game",
 				"notes": "No know issue."
+			}
+		]
+	},
+	{
+		"game": "Giga Wing 2",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1239M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -252,6 +381,20 @@
 				"commit": "75bb062ea08bf0735020c9b0b97d84e50f2f3ee3",
 				"status": "In Game",
 				"notes": "No known issue"
+			}
+		]
+	},
+	{
+		"game": "Gunbird 2",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1213M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -291,8 +434,9 @@
 		],
 		"status_reports": [
 			{
-				"commit": "50403fe",
-				"status": "In Game",
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
 				"notes": ""
 			}
 		]
@@ -315,6 +459,20 @@
 				"commit": "dd0456f",
 				"status": "In Game",
 				"notes": "Graphical issues (shadows/modvol on the main character). Requires a bad hack in GD-DMA. Need more testing."
+			}
+		]
+	},
+	{
+		"game": "JoJo's Bizarre Adventure: Heritage for the Future",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1231M V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -401,9 +559,24 @@
 		"tags": [],
 		"status_reports": [
 			{
-				"commit": "1350cbc",
-				"status": "In Game",
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
 				"notes": "Crackling sound"
+			}
+		]
+	},
+	{
+		"game": "Pen Pen TriIcelon",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T15105N V1.020",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -415,6 +588,20 @@
 				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
 				"status": "Playable",
 				"notes": ""
+			}
+		]
+	},
+	{
+		"game": "Plasma Sword: Nightmare of Bilstein",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1204M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -445,9 +632,24 @@
 		"tags": [],
 		"status_reports": [
 			{
-				"commit": "adaff15d2a18fd2eea7cc2ea23f45b63569eac8e",
-				"status": "In Game",
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
 				"notes": "Weird floor texture scrolling?"
+			}
+		]
+	},
+	{
+		"game": "Puyo Puyo Fever",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "HDR-0216 V1.005",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -474,6 +676,17 @@
 		]
 	},
 	{
+		"game": "Re-Volt",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "c437270",
+				"status": "In Game",
+				"notes": "-"
+			}
+		]
+	},
+	{
 		"game": "Resident Evil - Code Veronica",
 		"tags": [],
 		"status_reports": [
@@ -494,17 +707,6 @@
 				"commit": "ca3fb92363253648dd6b50b660653ce7dc86bdab",
 				"status": "In Game",
 				"notes": "Slow (everywhere, but seems especially stupid during cutscenes with lots of JIT invalidation). VMU not recognized?"
-			}
-		]
-	},
-	{
-		"game": "Re-Volt",
-		"tags": [],
-		"status_reports": [
-			{
-				"commit": "c437270",
-				"status": "In Game",
-				"notes": "-"
 			}
 		]
 	},
@@ -649,6 +851,34 @@
 		]
 	},
 	{
+		"game": "Street Fighter III: 2nd Impact",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1209M V1.003",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Street Fighter III: 3rd Strike",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1211M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Super Puzzle Fighter II X for Matching Service",
 		"tags": [],
 		"linked_issues": [
@@ -678,6 +908,20 @@
 		]
 	},
 	{
+		"game": "Super Street Fighter II X for Matching Service",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1236M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Suzuki Alstare Extreme Racing",
 		"tags": [],
 		"status_reports": [
@@ -685,6 +929,104 @@
 				"commit": "ca3fb92363253648dd6b50b660653ce7dc86bdab",
 				"status": "Playable",
 				"notes": ""
+			}
+		]
+	},
+	{
+		"game": "Tech Romancer (Kikaioh) for Matching Service",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1232M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "The King of Fighters '99: Evolution",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T3102M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "The King of Fighters 2000",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T47303M V1.003",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "The King of Fighters 2001",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T47304M V1.006",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "The King of Fighters 2002",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T47305M V1.008",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "The King of Fighters: Dream Match 1999",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T3101M V1.004",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "The Last Blade 2",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T3107M V1.003",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -717,9 +1059,55 @@
 		],
 		"status_reports": [
 			{
-				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
-				"status": "In Game",
-				"notes": "Complains about the VGA cable. Can be manually solved. No known issue."
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Menu",
+				"notes": "Pressing Start in the menu causes the game to freeze.",
+				"version": "0.6.0+"
+			}
+		],
+		"linked_issues": [
+			182
+		]
+	},
+	{
+		"game": "Under Defeat",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T46705M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Vampire Chronicle for Matching Service",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1235M V1.003",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "VF3tb",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "HDR-0002 V1.003",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -770,6 +1158,20 @@
 				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
 				"status": "Intro",
 				"notes": "Refuses to start with VGA (probably expected), and gets stuck with RGB. Changing the cable type from a save state allows it to go a bit further (some audio plays, but renders nothing)."
+			}
+		]
+	},
+	{
+		"game": "Zero Gunner 2",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T20401M V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	}
