@@ -40,7 +40,16 @@
 	{
 		"game": "AeroWings",
 		"tags": [],
+		"linked_issues": [
+			183
+		],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
+				"notes": "Ready/Go voice is distorted."
+			},
 			{
 				"commit": "7a33702c5cecffd3698d887fc9781980c6ec58c6",
 				"status": "In Game",
@@ -53,6 +62,12 @@
 		"tags": [],
 		"status_reports": [
 			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
+				"notes": ""
+			},
+			{
 				"commit": "7a33702c5cecffd3698d887fc9781980c6ec58c6",
 				"status": "In Game",
 				"notes": "(More testing needed)"
@@ -63,6 +78,12 @@
 		"game": "Animastar",
 		"tags": [],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
+				"notes": ""
+			},
 			{
 				"commit": "d858d1e",
 				"status": "In Game",
@@ -107,6 +128,12 @@
 		"game": "Blue Stinger",
 		"tags": [],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
+				"notes": ""
+			},
 			{
 				"commit": "878f2cd7b0c9be287145ed2b6162e704b4233ed9",
 				"status": "In Game",
@@ -291,7 +318,16 @@
 	{
 		"game": "F355 Challenge - Passione Rossa",
 		"tags": [],
+		"linked_issues": [
+			184
+		],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Intro",
+				"notes": "Hangs after SEGA logo."
+			},
 			{
 				"commit": "c0db07ffa334113b6c39f042f6355accba6815a8",
 				"status": "In Game",
@@ -332,8 +368,17 @@
 		"tags": [
 			"WinCE"
 		],
-		"linked_issues": [],
+		"linked_issues": [
+			189
+		],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "HDR-0071  V1.000",
+				"status": "In Game",
+				"notes": "No background music during gameplay."
+			},
 			{
 				"version": "0.6.0+",
 				"commit": "de440cc",
@@ -410,6 +455,13 @@
 		"status_reports": [
 			{
 				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1223N    V1.001",
+				"status": "Playable",
+				"notes": ""
+			},
+			{
+				"version": "0.6.0+",
 				"commit": "de440cc",
 				"game_version": "T1223N    V1.001",
 				"status": "In Game",
@@ -459,6 +511,13 @@
 		],
 		"status_reports": [
 			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T1202M V1.003",
+				"status": "Playable",
+				"notes": ""
+			},
+			{
 				"version": "0.6.0",
 				"commit": "da2178a20c13eea0860ba831c07092416315d5bd",
 				"game_version": "T1202M V1.003",
@@ -493,6 +552,12 @@
 		],
 		"status_reports": [
 			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Intro",
+				"notes": ""
+			},
+			{
 				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
 				"status": "In Game",
 				"notes": ""
@@ -502,7 +567,16 @@
 	{
 		"game": "Legacy of Kain - Soul Reaver",
 		"tags": [],
+		"linked_issues": [
+			185
+		],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
+				"notes": "Audio volume is sometimes too high."
+			},
 			{
 				"commit": "907cc6c",
 				"status": "In Game",
@@ -546,6 +620,12 @@
 		"game": "MDK 2",
 		"tags": [],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
+				"notes": ""
+			},
 			{
 				"commit": "c0db07ffa334113b6c39f042f6355accba6815a8",
 				"status": "In Game",
@@ -678,6 +758,12 @@
 		"tags": [],
 		"status_reports": [
 			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
+				"notes": ""
+			},
+			{
 				"commit": "5069c90",
 				"status": "In Game",
 				"notes": "Trigger inputs are broken (the only way to shoot is to pause...)."
@@ -689,6 +775,12 @@
 		"tags": [],
 		"status_reports": [
 			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
+				"notes": ""
+			},
+			{
 				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
 				"status": "In Game",
 				"notes": "Some weirdness with the inputs?"
@@ -698,7 +790,16 @@
 	{
 		"game": "Re-Volt",
 		"tags": [],
+		"linked_issues": [
+			186
+		],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "In Game",
+				"notes": "Severe graphical glitches; mostly textures visible."
+			},
 			{
 				"commit": "c437270",
 				"status": "In Game",
@@ -722,7 +823,16 @@
 		"tags": [
 			"WinCE"
 		],
+		"linked_issues": [
+			187
+		],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "In Game",
+				"notes": "FMVs are really slow."
+			},
 			{
 				"commit": "ca3fb92363253648dd6b50b660653ce7dc86bdab",
 				"status": "In Game",
@@ -735,7 +845,17 @@
 		"tags": [
 			"WinCE"
 		],
+		"linked_issues": [
+			188
+		],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T14304M V1.027 - English Patched",
+				"status": "In Game",
+				"notes": "FPS becomes abysmal."
+			},
 			{
 				"commit": "5988993bc8170e2a6d6a2ea2e806c10e4e00d043",
 				"status": "In Game",
@@ -789,6 +909,13 @@
 		"status_reports": [
 			{
 				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "MK-5111750V1.008",
+				"status": "Playable",
+				"notes": ""
+			},
+			{
+				"version": "0.6.0+",
 				"commit": "de440cc",
 				"game_version": "MK-5111750V1.008",
 				"status": "In Game",
@@ -831,6 +958,13 @@
 			179
 		],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"game_version": "T-8116N V1.001",
+				"status": "In Game",
+				"notes": "Background sound does not start."
+			},
 			{
 				"version": "0.6.0",
 				"commit": "da2178a20c13eea0860ba831c07092416315d5bd",
@@ -920,6 +1054,12 @@
 			"WinCE"
 		],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "Playable",
+				"notes": ""
+			},
 			{
 				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
 				"status": "In Game",
@@ -1053,7 +1193,16 @@
 	{
 		"game": "The Lost Golem",
 		"tags": [],
+		"linked_issues": [
+			190
+		],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "In Game",
+				"notes": "No background music during gameplay."
+			},
 			{
 				"commit": "16588b4",
 				"status": "In Game",
@@ -1079,10 +1228,10 @@
 		],
 		"status_reports": [
 			{
+				"version": "0.6.0+",
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
-				"status": "Menu",
-				"notes": "Pressing Start in the menu causes the game to freeze.",
-				"version": "0.6.0+"
+				"status": "Playable",
+				"notes": ""
 			},
 			{
 				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
