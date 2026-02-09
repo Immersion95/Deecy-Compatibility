@@ -943,7 +943,16 @@
 		"tags": [
 			"No VGA"
 		],
+		"linked_issues": [
+			190
+		],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"status": "In Game",
+				"notes": "Background sound does not start."
+			},
 			{
 				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
 				"status": "In Game",
@@ -1193,15 +1202,13 @@
 	{
 		"game": "The Lost Golem",
 		"tags": [],
-		"linked_issues": [
-			190
-		],
+		"linked_issues": [],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
-				"status": "In Game",
-				"notes": "No background music during gameplay."
+				"status": "Playable",
+				"notes": ""
 			},
 			{
 				"commit": "16588b4",
