@@ -324,6 +324,12 @@
 		"status_reports": [
 			{
 				"version": "0.6.0+",
+				"commit": "d20fcf3b36150d277c310e562845a791fb4bc10c",
+				"status": "Playable",
+				"notes": "No known issue."
+			},
+			{
+				"version": "0.6.0+",
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
 				"status": "Intro",
 				"notes": "Hangs after SEGA logo."
@@ -368,23 +374,21 @@
 		"tags": [
 			"WinCE"
 		],
-		"linked_issues": [
-			189
-		],
+		"linked_issues": [],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
-				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"commit": "d20fcf3b36150d277c310e562845a791fb4bc10c",
 				"game_version": "HDR-0071  V1.000",
-				"status": "In Game",
-				"notes": "No background music during gameplay."
+				"status": "Playable",
+				"notes": "No known issue."
 			},
 			{
 				"version": "0.6.0+",
 				"commit": "de440cc",
 				"game_version": "HDR-0071  V1.000",
 				"status": "In Game",
-				"notes": "No know issue."
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -409,7 +413,7 @@
 			{
 				"commit": "58531eaba182f7e0e64715e3b1390be6a1a8180d",
 				"status": "Playable",
-				"notes": "Names of items looted at the end of a battle are very rarely visually corrupted. No other know issue. [Can be completed :)]"
+				"notes": "Names of items looted at the end of a battle are very rarely visually corrupted. No other known issue. [Can be completed :)]"
 			}
 		]
 	},
@@ -465,7 +469,7 @@
 				"commit": "de440cc",
 				"game_version": "T1223N    V1.001",
 				"status": "In Game",
-				"notes": "No know issue."
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -479,7 +483,7 @@
 				"commit": "de440cc",
 				"game_version": "T-9702N   V1.020",
 				"status": "Playable",
-				"notes": "No know issue."
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -718,7 +722,7 @@
 			{
 				"commit": "4d1f6b161f69d23dacc14de2fb7fc86655280245",
 				"status": "Playable",
-				"notes": "No know issue. Weird read to reserved P4 space before stage select (a039a75)"
+				"notes": "No known issue. Weird read to reserved P4 space before stage select (a039a75)"
 			}
 		]
 	},
@@ -794,6 +798,13 @@
 			186
 		],
 		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d20fcf3b36150d277c310e562845a791fb4bc10c",
+				"game_version": "T-8109N V1.010",
+				"status": "Playable",
+				"notes": "Minor glitch in the trees."
+			},
 			{
 				"version": "0.6.0+",
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
@@ -943,15 +954,13 @@
 		"tags": [
 			"No VGA"
 		],
-		"linked_issues": [
-			190
-		],
+		"linked_issues": [],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
-				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
-				"status": "In Game",
-				"notes": "Background sound does not start."
+				"commit": "d20fcf3b36150d277c310e562845a791fb4bc10c",
+				"status": "Playable",
+				"notes": "No known issue."
 			},
 			{
 				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
@@ -969,10 +978,10 @@
 		"status_reports": [
 			{
 				"version": "0.6.0+",
-				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
+				"commit": "d20fcf3b36150d277c310e562845a791fb4bc10c",
 				"game_version": "T-8116N V1.001",
-				"status": "In Game",
-				"notes": "Background sound does not start."
+				"status": "Playable",
+				"notes": "No known issue."
 			},
 			{
 				"version": "0.6.0",
@@ -995,7 +1004,7 @@
 			{
 				"commit": "e563dbb",
 				"status": "Playable",
-				"notes": "No know issue."
+				"notes": "No known issue."
 			}
 		]
 	},
