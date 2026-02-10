@@ -1233,6 +1233,7 @@
 		"tags": [
 			"No VGA"
 		],
+		"notes": "The main menu sometimes freezes right after pressing Start on the title screen. This seems to happen when the console language does not match the game language. As far as we know, this happens on real hardware and isn't an issue with the emulator (#182).",
 		"status_reports": [
 			{
 				"version": "0.6.0+",
