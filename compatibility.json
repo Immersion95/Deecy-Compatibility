@@ -137,7 +137,7 @@
 			{
 				"commit": "878f2cd7b0c9be287145ed2b6162e704b4233ed9",
 				"status": "In Game",
-				"notes": "No known issue"
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -234,7 +234,7 @@
 			{
 				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
 				"status": "Playable",
-				"notes": "No known issue"
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -292,6 +292,44 @@
 		]
 	},
 	{
+		"game": "Doricatch Series: Celsior",
+		"tags": [],
+		"linked_issues": [201],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T39214M V1.000",
+				"status": "Playable",
+				"notes": "Issue #201: Blue background strip on the right side of the video/gameplay (leftover from the menu background)."
+			}
+		]
+	},
+	{
+		"game": "Doricatch Series: Hilux Surf",
+		"tags": [],
+		"linked_issues": [201],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T39203M V1.001",
+				"status": "Playable",
+				"notes": "Issue #201: Blue background strip on the right side of the video/gameplay (leftover from the menu background)."
+			}
+		]
+	},
+	{
+		"game": "Dynamite Cop",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "MK-5101350 V1.005",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Ecco the Dolphin: Defender of the future",
 		"tags": [],
 		"status_reports": [
@@ -312,6 +350,18 @@
 				"commit": "58531eaba182f7e0e64715e3b1390be6a1a8180d",
 				"status": "In Game",
 				"notes": "Background issue? (Black horizon in first level, disappearing splash screen during loading) #163"
+			}
+		]
+	},
+	{
+		"game": "Millennium Soldier: Expendable",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T15003M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -434,7 +484,7 @@
 			{
 				"commit": "75bb062ea08bf0735020c9b0b97d84e50f2f3ee3",
 				"status": "In Game",
-				"notes": "No known issue"
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -449,6 +499,23 @@
 				"game_version": "T1213M V1.002",
 				"status": "Playable",
 				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Happy Lesson",
+		"tags": [
+			"WinCE"
+		],
+		"linked_issues": [
+			199
+		],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T19503M V1.002",
+				"status": "In Game",
+				"notes": "Issue #199: black screen flash after each answer."
 			}
 		]
 	},
@@ -469,6 +536,20 @@
 				"commit": "de440cc",
 				"game_version": "T1223N    V1.001",
 				"status": "In Game",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Hello Kitty: Magical Block",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "HDR-0070 V1.001",
+				"status": "Playable",
 				"notes": "No known issue."
 			}
 		]
@@ -589,6 +670,18 @@
 		]
 	},
 	{
+		"game": "Mars Matrix: Hyper Solid Shooting",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T1221N V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Marvel vs. Capcom - Clash of Super Heroes",
 		"tags": [],
 		"linked_issues": [
@@ -649,6 +742,21 @@
 		]
 	},
 	{
+		"game": "Morita no Saikyou Shogi",
+		"tags": [
+			"WinCE"
+		],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T39101M V1.003",
+				"status": "Playable",
+				"notes": "Can be very slow when starting a game on lower-end CPUs."
+			}
+		]
+	},
+	{
 		"game": "Mortal Kombat Gold",
 		"tags": [],
 		"status_reports": [
@@ -662,6 +770,30 @@
 				"commit": "1350cbc",
 				"status": "In Game",
 				"notes": "Crackling sound"
+			}
+		]
+	},
+	{
+		"game": "Net Versus Gomoku Narabe to Renju",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T45705M V1.005",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Pachi-Slot Teiou: Dream Slot - Heiwa SP",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T20501M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -775,6 +907,20 @@
 		]
 	},
 	{
+		"game": "Railroad Tycoon II",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T41902N V1.004",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Rayman 2 - The Great Escape",
 		"tags": [],
 		"status_reports": [
@@ -819,6 +965,18 @@
 		]
 	},
 	{
+		"game": "Red Dog: Superior Firepower",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T40215N V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Resident Evil - Code Veronica",
 		"tags": [],
 		"status_reports": [
@@ -852,6 +1010,18 @@
 		]
 	},
 	{
+		"game": "Romance of the Three Kingdoms VI: Awakening of the Dragon",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T7607M V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Rune Jade",
 		"tags": [
 			"WinCE"
@@ -876,6 +1046,30 @@
 		]
 	},
 	{
+		"game": "Samba de Amigo",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "MK-51092 V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Sega Bass Fishing 2",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "HDR-0169 V1.080",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Sega Rally 2",
 		"tags": [
 			"WinCE"
@@ -885,6 +1079,18 @@
 				"commit": "6451284b01737817443eb64197aea00403ee8fbc",
 				"status": "Playable",
 				"notes": "WinCE game"
+			}
+		]
+	},
+	{
+		"game": "Seventh Cross: Evolution",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T41301N V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -1018,7 +1224,7 @@
 				"commit": "fcf0be7",
 				"game_version": "T7005D  50V1.000",
 				"status": "Playable",
-				"notes": "No known issue"
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -1125,6 +1331,18 @@
 		]
 	},
 	{
+		"game": "The House of the Dead 2",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "MK-51002 V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "The King of Fighters '99: Evolution",
 		"tags": [],
 		"linked_issues": [],
@@ -1223,6 +1441,18 @@
 				"commit": "16588b4",
 				"status": "In Game",
 				"notes": ""
+			}
+		]
+	},
+	{
+		"game": "Tokyo Xtreme Racer",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T40201D_50 V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
