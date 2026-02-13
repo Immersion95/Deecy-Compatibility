@@ -15,7 +15,7 @@
 		"tags": [
 			"WinCE"
 		],
-		"linked_issues": [],
+		"linked_issues": [202],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
@@ -96,6 +96,7 @@
 		"tags": [
 			"WinCE"
 		],
+		"linked_issues": [203],
 		"status_reports": [
 			{
 				"commit": "d858d1e",
@@ -635,12 +636,13 @@
 		"tags": [
 			"WinCE"
 		],
+		"linked_issues": [204],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
 				"status": "Intro",
-				"notes": ""
+				"notes": "Issue #204: Reboots to BIOS after the SEGA logo (won't start)."
 			},
 			{
 				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
@@ -1574,7 +1576,13 @@
 			"WinCE",
 			"No VGA"
 		],
+		"linked_issues": [205],
 		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"status": "Intro",
+				"notes": "Issue #205: Reboots to BIOS after the SEGA logo (won't start)."
+			},
 			{
 				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
 				"status": "Intro",
