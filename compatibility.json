@@ -99,6 +99,13 @@
 		"linked_issues": [203],
 		"status_reports": [
 			{
+				"commit": "99639ec2b66714a97ef0ffa19a35370d0e5838c9",
+				"version": "0.6.0+",
+				"game_version": "T40301N_00 V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			},
+			{
 				"commit": "d858d1e",
 				"status": "In Game",
 				"notes": "Extremely slow (constant JIT invalidation, \"Hash\" block invalidation strategy helps a lot, but isn't enough)"
@@ -638,6 +645,13 @@
 		],
 		"linked_issues": [204],
 		"status_reports": [
+			{
+				"commit": "99639ec2b66714a97ef0ffa19a35370d0e5838c9",
+				"version": "0.6.0+",
+				"game_version": "T39801M V1.007",
+				"status": "Playable",
+				"notes": "Incorrect menu images and text when using the CHD version."
+			},
 			{
 				"version": "0.6.0+",
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
