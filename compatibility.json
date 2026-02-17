@@ -1,5 +1,19 @@
 [
 	{
+		"game": "18 Wheeler: American Pro Trucker",
+		"tags": [],
+		"linked_issues": [209],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "MK-51064 V1.500",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "4 Wheel Thunder",
 		"tags": [],
 		"status_reports": [
@@ -54,6 +68,58 @@
 				"commit": "7a33702c5cecffd3698d887fc9781980c6ec58c6",
 				"status": "In Game",
 				"notes": "(More testing needed)"
+			}
+		]
+	},
+	{
+		"game": "AeroWings 2: Airstrike",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T40210N V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "AirForce Delta",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T9501N V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Alien Front Online",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "MK-51171 V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Alone in the Dark: The New Nightmare",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T15117N V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -113,16 +179,39 @@
 		]
 	},
 	{
-		"game": "Bangai-O",
-		"tags": [],
+		"game": "Atari Anniversary Edition",
+		"tags": [
+			"WinCE"
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
-				"commit": "de440ccd5e80e2587863f61ba565e6a8cfd7b8a6",
-				"game_version": "T40217N   V1.001",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T15130N V1.001",
 				"status": "Playable",
 				"notes": "No known issue."
-			},
+			}
+		]
+	},
+	{
+		"game": "Bang! Gunship Elite",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T44102N V1.003",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Bangai-O",
+		"tags": [],
+		"status_reports": [
 			{
 				"version": "0.6.0+",
 				"commit": "81712d6",
@@ -150,6 +239,19 @@
 		]
 	},
 	{
+		"game": "Bomberman Online",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "MK-51065 V1.004",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Border Down",
 		"tags": [],
 		"linked_issues": [],
@@ -158,6 +260,34 @@
 				"version": "0.6.0+",
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
 				"game_version": "T46703M V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Buggy Heat",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T6801M V1.004",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Bust-A-Move 4",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T-8117N V1.001",
 				"status": "Playable",
 				"notes": "No known issue."
 			}
@@ -241,6 +371,19 @@
 		"status_reports": [
 			{
 				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Confidential Mission",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "MK-51160 V1.004",
 				"status": "Playable",
 				"notes": "No known issue."
 			}
@@ -666,6 +809,20 @@
 		]
 	},
 	{
+		"game": "Le Mans 24 Hours",
+		"tags": [],
+		"linked_issues": [211],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "HDR-0149 V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Legacy of Kain - Soul Reaver",
 		"tags": [],
 		"linked_issues": [
@@ -758,6 +915,19 @@
 		]
 	},
 	{
+		"game": "Missing Parts 2: The Tantei Stories",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T36703M V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Morita no Saikyou Shogi",
 		"tags": [
 			"WinCE"
@@ -786,6 +956,20 @@
 				"commit": "1350cbc",
 				"status": "In Game",
 				"notes": "Crackling sound"
+			}
+		]
+	},
+	{
+		"game": "NFL Blitz 2000",
+		"tags": [],
+		"linked_issues": [210],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T-9703N V2.000",
+				"status": "Playable",
+				"notes": "Issue #210: V1.002 does not boot. https://github.com/Senryoku/Deecy/issues/210"
 			}
 		]
 	},
@@ -1333,6 +1517,19 @@
 		]
 	},
 	{
+		"game": "Sword of the Berserk: Guts' Rage",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T2101M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Tech Romancer (Kikaioh) for Matching Service",
 		"tags": [],
 		"linked_issues": [],
@@ -1341,6 +1538,19 @@
 				"version": "0.6.0+",
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
 				"game_version": "T1232M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Test Drive 6",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T15102N V1.000",
 				"status": "Playable",
 				"notes": "No known issue."
 			}
@@ -1535,6 +1745,20 @@
 		]
 	},
 	{
+		"game": "Vanishing Point",
+		"tags": [],
+		"linked_issues": [213],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T-8110N V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Virtua Fighter 3tb",
 		"tags": [],
 		"linked_issues": [],
@@ -1543,6 +1767,19 @@
 				"version": "0.6.0+",
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
 				"game_version": "HDR-0002 V1.003",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Virtua Striker 2",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "MK-51028 V1.002",
 				"status": "Playable",
 				"notes": "No known issue."
 			}
@@ -1601,6 +1838,20 @@
 				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
 				"status": "Intro",
 				"notes": "Refuses to start with VGA (probably expected), and gets stuck with RGB. Changing the cable type from a save state allows it to go a bit further (some audio plays, but renders nothing)."
+			}
+		]
+	},
+	{
+		"game": "World Series Baseball 2K1",
+		"tags": [],
+		"linked_issues": [212],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "MK-51055 V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
