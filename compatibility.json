@@ -14,6 +14,20 @@
 		]
 	},
 	{
+		"game": "21 - Two One",
+		"tags": [],
+		"linked_issues": [214],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "ac7365c0c2155a30e9afbd5150d1e907c3b35823",
+				"game_version": "T46503M V1.003",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
+	{
 		"game": "4 Wheel Thunder",
 		"tags": [],
 		"status_reports": [
@@ -85,6 +99,32 @@
 		]
 	},
 	{
+		"game": "After... Wasureenu Kizuna",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T18706M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
+	{
+		"game": "Aikagi - Hidamari to Kanojo no Heyagi",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T20130M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
+	{
 		"game": "AirForce Delta",
 		"tags": [],
 		"status_reports": [
@@ -97,6 +137,19 @@
 			}
 		]
 	},
+	{
+		"game": "Akihabara Dennou-gumi Pata Pies!",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "HDR-0019 V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
 	{
 		"game": "Alien Front Online",
 		"tags": [],
@@ -140,6 +193,19 @@
 			}
 		]
 	},
+	{
+		"game": "Angel Wish - Kimi no Egao ni Chu!",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T18712M V1.003",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
 	{
 		"game": "Animastar",
 		"tags": [],
@@ -194,6 +260,19 @@
 		]
 	},
 	{
+		"game": "Baldr Force EXE",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T47110M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
+	{
 		"game": "Bang! Gunship Elite",
 		"tags": [
 			"WinCE"
@@ -229,6 +308,19 @@
 		]
 	},
 	{
+		"game": "Black-Matrix Advanced",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T20101M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
+	{
 		"game": "Blue Stinger",
 		"tags": [],
 		"status_reports": [
@@ -245,6 +337,32 @@
 			}
 		]
 	},
+	{
+		"game": "Blue-Sky-Blue[s] - Sora o Mau Tsubasa",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T23205M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
+	{
+		"game": "Boku to, Bokura no Natsu",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T19717M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
 	{
 		"game": "Bomberman Online",
 		"tags": [],
@@ -272,6 +390,19 @@
 			}
 		]
 	},
+	{
+		"game": "Bounty Hunter Sara - Holy Mountain no Teiou",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T1243M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
 	{
 		"game": "Buggy Heat",
 		"tags": [],
@@ -301,6 +432,45 @@
 		]
 	},
 	{
+		"game": "Cafe Little Wish",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T46513M V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
+	{
+		"game": "Canary - Kono Omoi o Uta ni Nosete",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T20111M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
+	{
+		"game": "Candy Stripe - Minarai Tenshi",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "HDR-0172 V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
+	{
 		"game": "Cannon Spike",
 		"tags": [],
 		"linked_issues": [],
@@ -314,6 +484,19 @@
 			}
 		]
 	},
+	{
+		"game": "Canvas - Sepia-iro no Motif",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T20108M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
 	{
 		"game": "Capcom Taisen Fan Disc",
 		"tags": [],
@@ -373,6 +556,32 @@
 		]
 	},
 	{
+		"game": "Castle Fantasia - Seima Taisen",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T46901M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
+	{
+		"game": "Chaos Field",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T47801M V1.003",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
+	{
 		"game": "Chu Chu Rocket!",
 		"tags": [],
 		"status_reports": [
@@ -420,6 +629,32 @@
 			}
 		]
 	},
+	{
+		"game": "Culdcept II",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T43903M V1.008",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
+	{
+		"game": "D+Vine [Luv]",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T46501M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
 	{
 		"game": "Dead or Alive 2",
 		"tags": [],
@@ -1313,6 +1548,20 @@
 		]
 	},
 	{
+		"game": "Shikigami no Shiro II",
+		"tags": [],
+		"linked_issues": [215],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T47702M V1.002",
+				"status": "In Game",
+				"notes": "Issue #215: Slow gameplay (can't maintain 60 fps); JIT cache full resets."
+			}
+		]
+},
+	{
 		"game": "Sonic Adventure",
 		"tags": [],
 		"linked_issues": [
@@ -1723,6 +1972,21 @@
 			182
 		]
 	},
+	{
+		"game": "Tsuushin Taisen Logic Battle - Daisessen",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T35403M V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+},
 	{
 		"game": "Under Defeat",
 		"tags": [],
