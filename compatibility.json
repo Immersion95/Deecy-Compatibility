@@ -26,7 +26,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "4 Wheel Thunder",
 		"tags": [],
@@ -110,7 +110,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Aikagi - Hidamari to Kanojo no Heyagi",
 		"tags": [],
@@ -123,7 +123,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "AirForce Delta",
 		"tags": [],
@@ -149,7 +149,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Alien Front Online",
 		"tags": [],
@@ -205,7 +205,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Animastar",
 		"tags": [],
@@ -271,7 +271,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Bang! Gunship Elite",
 		"tags": [
@@ -308,6 +308,19 @@
 		]
 	},
 	{
+		"game": "Battle Beaster",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T43801M V1.003",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Black-Matrix Advanced",
 		"tags": [],
 		"status_reports": [
@@ -319,7 +332,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Blue Stinger",
 		"tags": [],
@@ -349,7 +362,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Boku to, Bokura no Natsu",
 		"tags": [],
@@ -362,7 +375,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Bomberman Online",
 		"tags": [],
@@ -402,7 +415,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Buggy Heat",
 		"tags": [],
@@ -443,7 +456,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Canary - Kono Omoi o Uta ni Nosete",
 		"tags": [],
@@ -456,7 +469,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Candy Stripe - Minarai Tenshi",
 		"tags": [],
@@ -469,7 +482,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Cannon Spike",
 		"tags": [],
@@ -496,7 +509,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Capcom Taisen Fan Disc",
 		"tags": [],
@@ -556,6 +569,19 @@
 		]
 	},
 	{
+		"game": "Carrier",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T5701N V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Castle Fantasia - Seima Taisen",
 		"tags": [],
 		"status_reports": [
@@ -567,7 +593,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Chaos Field",
 		"tags": [],
@@ -580,13 +606,26 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Chu Chu Rocket!",
 		"tags": [],
 		"status_reports": [
 			{
 				"commit": "915bcbd12496cf5771b47388e36e328533868a64",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Coji-Coji",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T40802M V1.002",
 				"status": "Playable",
 				"notes": "No known issue."
 			}
@@ -641,7 +680,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "D+Vine [Luv]",
 		"tags": [],
@@ -654,7 +693,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Dead or Alive 2",
 		"tags": [],
@@ -723,6 +762,19 @@
 		]
 	},
 	{
+		"game": "E.O.S.",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T22903D_50 V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Ecco the Dolphin: Defender of the future",
 		"tags": [],
 		"status_reports": [
@@ -747,12 +799,30 @@
 		]
 	},
 	{
-		"game": "Millennium Soldier: Expendable",
+		"game": "ECW Anarchy Rulz",
+		"tags": [],
+		"linked_issues": [
+			216,
+			221
+		],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T-8114N V1.000",
+				"status": "Playable",
+				"notes": "Issue #221: Loading screen glitches."
+			}
+		]
+	},
+	{
+		"game": "Eldorado Gate Volume 1",
 		"tags": [],
 		"status_reports": [
 			{
-				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
-				"game_version": "T15003M V1.001",
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T1225M V1.001",
 				"status": "Playable",
 				"notes": "No known issue."
 			}
@@ -795,6 +865,20 @@
 				"game_version": "HDR-0133 V1.001",
 				"status": "Playable",
 				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Fur Fighters",
+		"tags": [],
+		"linked_issues": [217],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T-8107N V2.001",
+				"status": "In Game",
+				"notes": "Issue #217: Loading screen flashes; gameplay shows HUD only."
 			}
 		]
 	},
@@ -1024,6 +1108,22 @@
 		]
 	},
 	{
+		"game": "Kaitou Apricot",
+		"tags": [
+			"WinCE"
+		],
+		"linked_issues": [218],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T37910M V1.006",
+				"status": "In Game",
+				"notes": "Issue #218: Loading screen flashes; gameplay renders incorrectly (HUD/scene missing)."
+			}
+		]
+	},
+	{
 		"game": "Kitahei Gold",
 		"tags": [
 			"WinCE"
@@ -1047,6 +1147,19 @@
 				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
 				"status": "In Game",
 				"notes": ""
+			}
+		]
+	},
+	{
+		"game": "Kuon no Kizuna Sairinshou",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T36701M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -1081,6 +1194,32 @@
 				"commit": "907cc6c",
 				"status": "In Game",
 				"notes": "Sound issues. Inputs are... weird?"
+			}
+		]
+	},
+	{
+		"game": "Love Hina 2",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "HDR-0139 V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "MagForce Racing",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T40208N V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -1157,6 +1296,18 @@
 		]
 	},
 	{
+		"game": "Millennium Soldier: Expendable",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T15003M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Missing Parts 2: The Tantei Stories",
 		"tags": [],
 		"status_reports": [
@@ -1202,6 +1353,18 @@
 		]
 	},
 	{
+		"game": "Net Versus Gomoku Narabe to Renju",
+		"tags": [],
+		"status_reports": [
+			{
+				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
+				"game_version": "T45705M V1.005",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "NFL Blitz 2000",
 		"tags": [],
 		"linked_issues": [210],
@@ -1216,12 +1379,26 @@
 		]
 	},
 	{
-		"game": "Net Versus Gomoku Narabe to Renju",
+		"game": "Ohgami Ichiro Funtouki",
 		"tags": [],
 		"status_reports": [
 			{
-				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
-				"game_version": "T45705M V1.005",
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "HDR-0057 V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Omoide ni Kawaru Kimi: Memories Off",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T19718M V1.001",
 				"status": "Playable",
 				"notes": "No known issue."
 			}
@@ -1419,6 +1596,19 @@
 		]
 	},
 	{
+		"game": "Reel Fishing Wild",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T44303N V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Resident Evil - Code Veronica",
 		"tags": [],
 		"status_reports": [
@@ -1448,6 +1638,20 @@
 				"commit": "ca3fb92363253648dd6b50b660653ce7dc86bdab",
 				"status": "In Game",
 				"notes": "Slow (everywhere, but seems especially stupid during cutscenes with lots of JIT invalidation). VMU not recognized?"
+			}
+		]
+	},
+	{
+		"game": "Roadsters",
+		"tags": [],
+		"linked_issues": [219],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T22901N V1.007",
+				"status": "Playable",
+				"notes": "Issue #219: Crash after SEGA logo with Cable set to \"Auto\"."
 			}
 		]
 	},
@@ -1560,7 +1764,21 @@
 				"notes": "Issue #215: Slow gameplay (can't maintain 60 fps); JIT cache full resets."
 			}
 		]
-},
+	},
+	{
+		"game": "Skies of Arcadia",
+		"tags": [],
+		"linked_issues": [223],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "MK-51052 V1.002",
+				"status": "Playable",
+				"notes": "Issue #223: Graphical bug at x5-X6 rendering."
+			}
+		]
+	},
 	{
 		"game": "Sonic Adventure",
 		"tags": [],
@@ -1713,6 +1931,21 @@
 		]
 	},
 	{
+		"game": "Super Producers",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T14303M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Super Puzzle Fighter II X for Matching Service",
 		"tags": [],
 		"linked_issues": [
@@ -1794,6 +2027,19 @@
 				"version": "0.6.0+",
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
 				"game_version": "T1232M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Tenohira o, Taiyou ni",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T46516M V1.000",
 				"status": "Playable",
 				"notes": "No known issue."
 			}
@@ -1927,6 +2173,19 @@
 		]
 	},
 	{
+		"game": "The Typing of the Dead",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "MK-51144 V1.004",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Tokyo Xtreme Racer",
 		"tags": [],
 		"status_reports": [
@@ -1946,6 +2205,19 @@
 				"commit": "73b2443af0cb20c997af815f754e222b160d16cb",
 				"status": "Playable",
 				"notes": "Pause screen requires framebuffer emulation. No other known issue."
+			}
+		]
+	},
+	{
+		"game": "Toy Story 2: Buzz Lightyear to the Rescue",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T13003N V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -1973,6 +2245,20 @@
 		]
 	},
 	{
+		"game": "Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary",
+		"tags": [],
+		"linked_issues": [220],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
+				"game_version": "T47109M V1.004",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Tsuushin Taisen Logic Battle - Daisessen",
 		"tags": [
 			"WinCE"
@@ -1986,7 +2272,7 @@
 				"notes": "No known issue."
 			}
 		]
-},
+	},
 	{
 		"game": "Under Defeat",
 		"tags": [],
