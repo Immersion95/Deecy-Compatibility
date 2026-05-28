@@ -1535,6 +1535,7 @@
 		"linked_issues": [],
 		"status_reports": [
 			{
+				"version": "0.6.1",
 				"commit": "67a3c1a",
 				"game_version": "MK-51035 V1.004",
 				"status": "In Game",
@@ -3827,6 +3828,19 @@
 				"commit": "fcf0be7",
 				"status": "Playable",
 				"notes": "Inconsistent frame time, because of the 30FPS target?"
+			}
+		]
+	},
+	{
+		"game": "Walt Disney World Quest: Magical Racing Tour",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.1",
+				"commit": "fdb444a",
+				"game_version": "T36804N V1.001",
+				"status": "Playable",
+				"notes": "No known issue. Does not work when the right stick setting is turned on when booting up."
 			}
 		]
 	},
