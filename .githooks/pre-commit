@@ -1,0 +1,47 @@
+#!/usr/bin/env python
+import json
+import sys
+import os
+import subprocess
+
+
+# Normalize (sort by 'game' key and format) the compatibility file.
+def normalize(file_path: str):
+    if not os.path.exists(file_path):
+        return
+
+    # Skip if the file isn't staged
+    try:
+        staged_files = subprocess.check_output(["git", "diff", "--cached", "--name-only"], text=True).splitlines()
+    except subprocess.CalledProcessError:
+        return
+    if file_path not in staged_files:
+        return
+
+    print(f"[Git Hook] Normalizing '{file_path}'...")
+
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        if not isinstance(data, list):
+            print(f"[Git Hook] Error: {file_path} must be a JSON array.")
+            sys.exit(1)
+
+        data.sort(key=lambda x: str(x.get("game", "")).lower())
+        with open(file_path, "w", encoding="utf-8", newline="\n") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+            f.write("\n")
+
+        subprocess.check_call(["git", "add", file_path])
+        print(f"[Git Hook] '{file_path}' normalized.")
+    except json.JSONDecodeError:
+        print(f"[Git Hook] Error: '{file_path}' is not valid JSON.")
+        sys.exit(1)
+    except Exception as e:
+        print(f"[Git Hook] Error: {e}")
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    normalize("compatibility.json")
