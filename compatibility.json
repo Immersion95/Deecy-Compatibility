@@ -2606,6 +2606,20 @@
     ]
   },
   {
+    "game": "Ready 2 Rumble Boxing: Round 2",
+    "tags": [],
+    "linked_issues": [],
+    "status_reports": [
+      {
+        "version": "0.6.1+",
+        "commit": "158bb4a",
+        "game_version": "T9711D  50V1.001",
+        "status": "Playable",
+        "notes": "No known issue."
+      }
+    ]
+  },
+  {
     "game": "Record of Lodoss War",
     "tags": [],
     "linked_issues": [],
