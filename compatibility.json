@@ -1053,7 +1053,7 @@
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T-17717N V1.002",
         "status": "Playable",
-        "notes": "No known issue."
+        "notes": "Minor shadow issue on translucent geometry (#259)."
       }
     ]
   },
