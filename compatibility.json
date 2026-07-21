@@ -1042,6 +1042,22 @@
     ]
   },
   {
+    "game": "Disney's Dinosaur",
+    "tags": [],
+    "linked_issues": [
+      259
+    ],
+    "status_reports": [
+      {
+        "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T-17717N V1.002",
+        "status": "Playable",
+        "notes": "No known issue."
+      }
+    ]
+  },
+  {
     "game": "Doricatch - Land Cruiser 100-Cygnus",
     "tags": [],
     "linked_issues": [],
@@ -1328,6 +1344,13 @@
     "status_reports": [
       {
         "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "MK-51114 V1.001",
+        "status": "Playable",
+        "notes": "No known issue."
+      },
+      {
+        "version": "0.6.0+",
         "commit": "d917e12981aace2cdad303bcf32f173cfdadf664",
         "game_version": "MK-51114 V1.001",
         "status": "Intro",
@@ -1344,6 +1367,13 @@
       241
     ],
     "status_reports": [
+      {
+        "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T37905M V1.002",
+        "status": "Playable",
+        "notes": "Use Delayed Render."
+      },
       {
         "version": "0.6.0+",
         "commit": "bd0f85a752a1c8f4b8420ead1044c2d2f996039b",
@@ -1557,6 +1587,13 @@
     ],
     "status_reports": [
       {
+        "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T19503M V1.002",
+        "status": "Playable",
+        "notes": "Use Delayed Render."
+      },
+      {
         "commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
         "game_version": "T19503M V1.002",
         "status": "In Game",
@@ -1753,6 +1790,13 @@
       218
     ],
     "status_reports": [
+      {
+        "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T37910M V1.006",
+        "status": "Playable",
+        "notes": "Use Delayed Render."
+      },
       {
         "version": "0.6.0+",
         "commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
@@ -1955,6 +1999,13 @@
     ],
     "status_reports": [
       {
+        "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T1212N V1.001",
+        "status": "Playable",
+        "notes": "Intro corruption fixed."
+      },
+      {
         "version": "0.6.0",
         "commit": "da2178a20c13eea0860ba831c07092416315d5bd",
         "game_version": "T1212N V1.001",
@@ -2040,6 +2091,13 @@
     "status_reports": [
       {
         "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T18702M V1.006",
+        "status": "Playable",
+        "notes": "No known issue."
+      },
+      {
+        "version": "0.6.0+",
         "commit": "d917e12981aace2cdad303bcf32f173cfdadf664",
         "game_version": "T18702M V1.006",
         "status": "In Game",
@@ -2107,6 +2165,19 @@
     ]
   },
   {
+    "game": "Mr. Driller",
+    "tags": [],
+    "status_reports": [
+      {
+        "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T1402N V1.001",
+        "status": "Playable",
+        "notes": "Microphone support implemented."
+      }
+    ]
+  },
+  {
     "game": "Ms. Pac-Man: Maze Madness",
     "tags": [],
     "status_reports": [
@@ -2142,6 +2213,13 @@
     "status_reports": [
       {
         "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T9709N V2.000",
+        "status": "Playable",
+        "notes": "No known issue."
+      },
+      {
+        "version": "0.6.0+",
         "commit": "d917e12981aace2cdad303bcf32f173cfdadf664",
         "game_version": "T9709N V2.000",
         "status": "Intro",
@@ -2156,6 +2234,13 @@
       244
     ],
     "status_reports": [
+      {
+        "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "MK-51176 V1.003",
+        "status": "Playable",
+        "notes": "No known issue."
+      },
       {
         "version": "0.6.0+",
         "commit": "373f46f5f3fe3b54634ac08d0c779bfcdd9ff6fc",
@@ -2198,6 +2283,13 @@
       254
     ],
     "status_reports": [
+      {
+        "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "MK-51003 V1.007",
+        "status": "Playable",
+        "notes": "No known issue."
+      },
       {
         "version": "0.6.0+",
         "commit": "d917e12981aace2cdad303bcf32f173cfdadf664",
@@ -2276,6 +2368,13 @@
       248
     ],
     "status_reports": [
+      {
+        "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T36807N V1.001",
+        "status": "Playable",
+        "notes": "No known issue."
+      },
       {
         "version": "0.6.0+",
         "commit": "d917e12981aace2cdad303bcf32f173cfdadf664",
@@ -2680,6 +2779,13 @@
     "status_reports": [
       {
         "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T1205N V1.001",
+        "status": "Playable",
+        "notes": "No known issue."
+      },
+      {
+        "version": "0.6.0+",
         "commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
         "status": "In Game",
         "notes": "FMVs are really slow."
@@ -2743,6 +2849,13 @@
     "status_reports": [
       {
         "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T22901N V1.007",
+        "status": "Playable",
+        "notes": "Crash after the SEGA logo with Cable set to \"Auto\"."
+      },
+      {
+        "version": "0.6.0+",
         "commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
         "game_version": "T22901N V1.007",
         "status": "Playable",
@@ -2771,6 +2884,13 @@
       188
     ],
     "status_reports": [
+      {
+        "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T14304M V1.027 - English Patched",
+        "status": "Playable",
+        "notes": "No known issue."
+      },
       {
         "version": "0.6.0+",
         "commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
@@ -2823,6 +2943,22 @@
         "game_version": "MK-51092 V1.001",
         "status": "Playable",
         "notes": "No known issue."
+      }
+    ]
+  },
+  {
+    "game": "Seaman",
+    "tags": [],
+    "linked_issues": [
+      272
+    ],
+    "status_reports": [
+      {
+        "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "MK-51048 V1.001",
+        "status": "Playable",
+        "notes": "Microphone support implemented."
       }
     ]
   },
@@ -3109,6 +3245,13 @@
       249
     ],
     "status_reports": [
+      {
+        "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T-8105N V1.000",
+        "status": "Playable",
+        "notes": "Use Delayed Render."
+      },
       {
         "version": "0.6.0+",
         "commit": "d917e12981aace2cdad303bcf32f173cfdadf664",
@@ -3587,6 +3730,13 @@
       255
     ],
     "status_reports": [
+      {
+        "version": "0.6.0+",
+        "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
+        "game_version": "T40401N V1.004",
+        "status": "Playable",
+        "notes": "Use Delayed Render. No flickering with this option enabled."
+      },
       {
         "version": "0.6.0+",
         "commit": "d917e12981aace2cdad303bcf32f173cfdadf664",
