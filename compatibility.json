@@ -1049,7 +1049,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T-17717N V1.002",
         "status": "Playable",
@@ -1343,7 +1343,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "MK-51114 V1.001",
         "status": "Playable",
@@ -1368,7 +1368,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T37905M V1.002",
         "status": "Playable",
@@ -1587,7 +1587,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T19503M V1.002",
         "status": "Playable",
@@ -1791,7 +1791,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T37910M V1.006",
         "status": "Playable",
@@ -1999,7 +1999,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T1212N V1.001",
         "status": "Playable",
@@ -2090,7 +2090,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T18702M V1.006",
         "status": "Playable",
@@ -2169,7 +2169,7 @@
     "tags": [],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T1402N V1.001",
         "status": "Playable",
@@ -2212,7 +2212,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T9709N V2.000",
         "status": "Playable",
@@ -2235,7 +2235,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "MK-51176 V1.003",
         "status": "Playable",
@@ -2284,7 +2284,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "MK-51003 V1.007",
         "status": "Playable",
@@ -2369,7 +2369,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T36807N V1.001",
         "status": "Playable",
@@ -2778,7 +2778,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T1205N V1.001",
         "status": "Playable",
@@ -2848,7 +2848,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T22901N V1.007",
         "status": "Playable",
@@ -2885,7 +2885,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T14304M V1.027 - English Patched",
         "status": "Playable",
@@ -2954,7 +2954,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "MK-51048 V1.001",
         "status": "Playable",
@@ -3246,7 +3246,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T-8105N V1.000",
         "status": "Playable",
@@ -3731,7 +3731,7 @@
     ],
     "status_reports": [
       {
-        "version": "0.6.0+",
+        "version": "0.6.3-dev",
         "commit": "4745affff172759e9a34c96a2ad0e2444ae57770",
         "game_version": "T40401N V1.004",
         "status": "Playable",
