@@ -361,7 +361,10 @@
     ]
   },
   {
-    "title": "Bangai-O / Bakuretsu Muteki Bangaioh",
+    "title": "Bangai-O",
+    "aka": [
+      "Bakuretsu Muteki Bangaioh"
+    ],
     "tags": [],
     "status_reports": [
       {
@@ -779,6 +782,9 @@
   },
   {
     "title": "Coaster Works",
+    "aka": [
+      "Jet Coaster Dream"
+    ],
     "tags": [],
     "status_reports": [
       {
@@ -2123,7 +2129,11 @@
     ]
   },
   {
-    "title": "Monaco Grand Prix / Monaco Grand Prix Racing Simulation 2",
+    "title": "Monaco Grand Prix",
+    "aka": [
+      "Monaco Grand Prix Racing Simulation 2",
+      "Racing Simulation: Monaco Grand Prix"
+    ],
     "tags": [],
     "linked_issues": [],
     "status_reports": [
@@ -2513,6 +2523,9 @@
   },
   {
     "title": "Plasma Sword: Nightmare of Bilstein",
+    "aka": [
+      "Star Gladiator 2"
+    ],
     "tags": [],
     "linked_issues": [],
     "status_reports": [
@@ -2762,7 +2775,10 @@
     ]
   },
   {
-    "title": "Resident Evil - Code Veronica / Biohazard - Code Veronica",
+    "title": "Resident Evil - Code Veronica",
+    "aka": [
+      "Biohazard - Code Veronica"
+    ],
     "tags": [],
     "status_reports": [
       {
@@ -2773,7 +2789,10 @@
     ]
   },
   {
-    "title": "Resident Evil 2 / Biohazard 2",
+    "title": "Resident Evil 2",
+    "aka": [
+      "Biohazard 2"
+    ],
     "tags": [
       "WinCE"
     ],
@@ -2868,7 +2887,10 @@
     ]
   },
   {
-    "title": "Romance of the Three Kingdoms VI / Sangokushi VI",
+    "title": "Romance of the Three Kingdoms VI",
+    "aka": [
+      "Sangokushi VI"
+    ],
     "tags": [],
     "status_reports": [
       {
@@ -3114,6 +3136,9 @@
   },
   {
     "title": "Skies of Arcadia",
+    "aka": [
+      "Eternal Arcadia"
+    ],
     "tags": [],
     "linked_issues": [
       223
@@ -3304,7 +3329,10 @@
     ]
   },
   {
-    "title": "Street Fighter Alpha 3 / Street Fighter Zero 3",
+    "title": "Street Fighter Alpha 3",
+    "aka": [
+      "Street Fighter Zero 3"
+    ],
     "tags": [],
     "linked_issues": [],
     "status_reports": [
@@ -3318,7 +3346,10 @@
     ]
   },
   {
-    "title": "Street Fighter III: 2nd Impact / Street Fighter III: W Impact",
+    "title": "Street Fighter III: 2nd Impact",
+    "aka": [
+      "Street Fighter III: W Impact"
+    ],
     "tags": [],
     "linked_issues": [],
     "status_reports": [
@@ -3391,7 +3422,10 @@
     ]
   },
   {
-    "title": "Super Puzzle Fighter II Turbo / Super Puzzle Fighter II X",
+    "title": "Super Puzzle Fighter II Turbo",
+    "aka": [
+      "Super Puzzle Fighter II X"
+    ],
     "tags": [],
     "linked_issues": [
       165
@@ -3407,7 +3441,10 @@
     ]
   },
   {
-    "title": "Super Robot Wars Alpha / Super Robot Taisen Alpha",
+    "title": "Super Robot Wars Alpha",
+    "aka": [
+      "Super Robot Taisen Alpha"
+    ],
     "tags": [
       "WinCE"
     ],
@@ -3426,7 +3463,10 @@
     ]
   },
   {
-    "title": "Super Street Fighter II Turbo / Super Street Fighter II X",
+    "title": "Super Street Fighter II Turbo",
+    "aka": [
+      "Super Street Fighter II X"
+    ],
     "tags": [],
     "linked_issues": [],
     "status_reports": [
@@ -3441,6 +3481,9 @@
   },
   {
     "title": "Surf Rocket Racers",
+    "aka": [
+      "Power Jet Racing 2001"
+    ],
     "tags": [],
     "status_reports": [
       {
@@ -3490,7 +3533,10 @@
     ]
   },
   {
-    "title": "Tech Romancer / Kikaioh",
+    "title": "Tech Romancer",
+    "aka": [
+      "Kikaioh"
+    ],
     "tags": [],
     "linked_issues": [],
     "status_reports": [
@@ -3626,7 +3672,10 @@
     ]
   },
   {
-    "title": "The Last Blade 2 / Bakumatsu Roman Daini Maku - Gekka no Kenshi - Final Edition",
+    "title": "The Last Blade 2",
+    "aka": [
+      "Bakumatsu Roman Daini Maku - Gekka no Kenshi - Final Edition"
+    ],
     "tags": [],
     "linked_issues": [],
     "status_reports": [
@@ -3641,6 +3690,9 @@
   },
   {
     "title": "The Lost Golem",
+    "aka": [
+      "Golem no Maigo"
+    ],
     "tags": [],
     "linked_issues": [],
     "status_reports": [
@@ -3971,6 +4023,9 @@
   },
   {
     "title": "Virtua Tennis",
+    "aka": [
+      "Power Smash"
+    ],
     "tags": [],
     "status_reports": [
       {
@@ -3984,6 +4039,10 @@
   },
   {
     "title": "Virtua Tennis 2",
+    "aka": [
+      "Power Smash 2",
+      "Tennis 2K2"
+    ],
     "tags": [],
     "status_reports": [
       {
