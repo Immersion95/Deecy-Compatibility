@@ -4,9 +4,28 @@
 	"items": {
 		"type": "object",
 		"properties": {
-			"game": {
+			"title": {
 				"type": "string",
 				"description": "The title of the game."
+			},
+			"aka": {
+				"type": "array",
+				"items": {
+					"type": "string"
+				},
+				"description": "Alternative titles (e.g., titles from other regions)."
+			},
+			"status": {
+				"type": "string",
+				"enum": [
+					"Playable",
+					"In Game",
+					"Menu",
+					"Intro",
+					"Nothing",
+					"Unknown"
+				],
+				"description": "The compatibility status. Optional: The last status_reports will be used if not specified."
 			},
 			"tags": {
 				"type": "array",
@@ -21,6 +40,10 @@
 					"type": "integer"
 				},
 				"description": "IDs of GitHub issues related to this game."
+			},
+			"notes": {
+				"type": "string",
+				"description": "Global observations."
 			},
 			"status_reports": {
 				"type": "array",
@@ -38,7 +61,8 @@
 								"In Game",
 								"Menu",
 								"Intro",
-								"Nothing"
+								"Nothing",
+								"Unknown"
 							],
 							"description": "The compatibility status."
 						},
@@ -63,7 +87,7 @@
 			}
 		},
 		"required": [
-			"game",
+			"title",
 			"tags",
 			"status_reports"
 		]
