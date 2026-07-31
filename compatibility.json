@@ -1,5 +1,18 @@
 [
   {
+    "title": "102 Dalmatians: Puppies to the Rescue",
+    "tags": [],
+    "status_reports": [
+      {
+        "version": "0.6.3-dev",
+        "commit": "2648137",
+        "game_version": "T36813D 05V1.000",
+        "status": "Playable",
+        "notes": "No known issue."
+      }
+    ]
+  },
+  {
     "title": "18 Wheeler: American Pro Trucker",
     "tags": [],
     "linked_issues": [
@@ -223,7 +236,9 @@
   },
   {
     "title": "Alone in the Dark: The New Nightmare",
-    "tags": [],
+    "tags": [
+      "Multidics"
+    ],
     "status_reports": [
       {
         "version": "0.6.0+",
@@ -285,6 +300,13 @@
     "title": "Aqua GT",
     "tags": [],
     "status_reports": [
+      {
+        "version": "0.6.3-dev",
+        "commit": "2648137",
+        "game_version": "T40509D 50V1.000",
+        "status": "Playable",
+        "notes": "Flickering in the menus. Can be 'fixed' with Synchronous Rendering and Delayed Render at the cost of half of the menus not updating, and performance."
+      },
       {
         "version": "0.6.0+",
         "commit": "373f46f5f3fe3b54634ac08d0c779bfcdd9ff6fc",
@@ -2219,6 +2241,22 @@
     ]
   },
   {
+    "title": "NBA 2K2",
+    "tags": [],
+    "linked_issues": [
+      70
+    ],
+    "status_reports": [
+      {
+        "version": "0.6.3-dev",
+        "commit": "2648137",
+        "game_version": "MK-51178  V1.001",
+        "status": "In Game",
+        "notes": "Very slow loading times due to #70"
+      }
+    ]
+  },
+  {
     "title": "NBA Hoopz",
     "tags": [],
     "linked_issues": [
@@ -2822,6 +2860,9 @@
   },
   {
     "title": "Resident Evil 3: Nemesis",
+    "aka": [
+      "Biohazard 3: Last Escape"
+    ],
     "tags": [],
     "linked_issues": [
       239
@@ -3806,6 +3847,11 @@
   },
   {
     "title": "Tomb Raider IV: The Last Revelation",
+    "aka": [
+      "Tomb Raider 4: La revelation finale",
+      "Tomb Raider: A Revelação Final",
+      "Tomb Raider: De laatste onthulling"
+    ],
     "tags": [
       "WinCE"
     ],
@@ -3819,6 +3865,30 @@
         "game_version": "T1233M V1.000",
         "status": "Playable",
         "notes": "Issue #245: Audio volume is extremely low."
+      }
+    ]
+  },
+  {
+    "title": "Tomb Raider V: Chronicles",
+    "aka": [
+      "Tomb Raider 5: Chronicles",
+      "Tomb Raider Chronicles: La leggenda di Lara Croft",
+      "Tomb Raider V, Tomb Raider: Die Chronik",
+      "Tomb Raider: Sur les traces de Lara Croft"
+    ],
+    "tags": [
+      "WinCE"
+    ],
+    "linked_issues": [
+      290
+    ],
+    "status_reports": [
+      {
+        "version": "0.6.3-dev",
+        "commit": "2648137",
+        "game_version": "T36812N   V1.000",
+        "status": "In Game",
+        "notes": "Freezes on the first jump in the tutorial (#290)."
       }
     ]
   },
@@ -3965,6 +4035,22 @@
     ]
   },
   {
+    "title": "V-Rally 2 - Expert Edition",
+    "aka": [
+      "Test Drive V-Rally"
+    ],
+    "tags": [],
+    "status_reports": [
+      {
+        "version": "0.6.3-dev",
+        "commit": "2648137",
+        "game_version": "T15105D 50V0.002",
+        "status": "Playable",
+        "notes": "No known issue."
+      }
+    ]
+  },
+  {
     "title": "Vampire Chronicle for Matching Service",
     "tags": [],
     "linked_issues": [],
@@ -4054,7 +4140,9 @@
   },
   {
     "title": "Volgarr the Viking",
-    "tags": [],
+    "tags": [
+      "Unofficial"
+    ],
     "status_reports": [
       {
         "version": "0.6.0+",
