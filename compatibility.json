@@ -3885,6 +3885,13 @@
     "status_reports": [
       {
         "version": "0.6.3-dev",
+        "commit": "9546004",
+        "game_version": "T36812N   V1.000",
+        "status": "Playable",
+        "notes": "No known issue."
+      },
+      {
+        "version": "0.6.3-dev",
         "commit": "2648137",
         "game_version": "T36812N   V1.000",
         "status": "In Game",
