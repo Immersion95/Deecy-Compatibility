@@ -1144,6 +1144,20 @@
     ]
   },
   {
+    "title": "Draconus: Cult of the Wyrm",
+    "tags": [],
+    "linked_issues": [],
+    "status_reports": [
+      {
+        "version": "0.6.3-dev",
+        "commit": "c0e1dcb",
+        "game_version": "T40203N   V1.000",
+        "status": "Playable",
+        "notes": ""
+      }
+    ]
+  },
+  {
     "title": "Ducati World",
     "tags": [
       "WinCE"
