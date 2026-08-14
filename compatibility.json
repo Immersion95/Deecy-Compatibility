@@ -3139,6 +3139,13 @@
     ],
     "status_reports": [
       {
+        "version": "0.6.3-dev",
+        "commit": "20bb1fffcb742ece4cce420d1c567d98369ea248",
+        "game_version": "T47702M V1.002",
+        "status": "Playable",
+        "notes": "Requires 'Hash' block invalidation strategy (turned on by default for this game)."
+      },
+      {
         "version": "0.6.0+",
         "commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
         "game_version": "T47702M V1.002",
@@ -3438,6 +3445,13 @@
       250
     ],
     "status_reports": [
+      {
+        "version": "0.6.3-dev",
+        "commit": "c0e1dcba8c550daafd1fa1815e51b9eb11ad6871",
+        "game_version": "T17708N V1.001",
+        "status": "Playable",
+        "notes": "Only works with HLE bios replacement (enabled by default for this game)."
+      },
       {
         "version": "0.6.0+",
         "commit": "d917e12981aace2cdad303bcf32f173cfdadf664",
