@@ -569,6 +569,22 @@
     ]
   },
   {
+    "title": "Caesars Palace 2000 - Millennium Gold Edition",
+    "tags": [
+      "No VGA",
+      "WinCE"
+    ],
+    "status_reports": [
+      {
+        "version": "0.6.3-dev",
+        "commit": "92f066c4a6e159cadb07d69568b3af7ad33699c7",
+        "game_version": "12502D-50 V1.000",
+        "status": "Playable",
+        "notes": "Does not support VGA despite claiming otherwise. Composite forced via default game settings."
+      }
+    ]
+  },
+  {
     "title": "Cafe Little Wish",
     "tags": [],
     "status_reports": [
@@ -4215,6 +4231,23 @@
     ]
   },
   {
+    "title": "Who Wants to Be a Millionaire",
+    "aka": [
+      "Qui Veut Gagner des Millions"
+    ],
+    "tags": [],
+    "linked_issues": [],
+    "status_reports": [
+      {
+        "version": "0.6.3-dev",
+        "commit": "3b7dc63fd32c17705ae95e9fc16ff81da027386a",
+        "game_version": "T36811D 05V1.000",
+        "status": "Playable",
+        "notes": ""
+      }
+    ]
+  },
+  {
     "title": "World Neverland Plus",
     "tags": [
       "WinCE",
@@ -4266,6 +4299,22 @@
     ]
   },
   {
+    "title": "Xtreme Sports",
+    "tags": [],
+    "linked_issues": [
+      294
+    ],
+    "status_reports": [
+      {
+        "version": "0.6.3-dev",
+        "commit": "3b7dc63fd32c17705ae95e9fc16ff81da027386a",
+        "game_version": "T15126N   V1.000",
+        "status": "Playable",
+        "notes": "Sun is rendered incorrectly. Bloom/Lense flare effects require Framebuffer Emulation."
+      }
+    ]
+  },
+  {
     "title": "Zero Gunner 2",
     "tags": [],
     "linked_issues": [],
@@ -4274,6 +4323,34 @@
         "version": "0.6.0+",
         "commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
         "game_version": "T20401M V1.000",
+        "status": "Playable",
+        "notes": "No known issue."
+      }
+    ]
+  },
+  {
+    "title": "Zombie Revenge",
+    "tags": [],
+    "linked_issues": [],
+    "status_reports": [
+      {
+        "version": "0.6.3-dev",
+        "commit": "3b7dc63fd32c17705ae95e9fc16ff81da027386a",
+        "game_version": "MK-5103850V1.000",
+        "status": "Playable",
+        "notes": "Projector effect doesn't translate well to modern displays (flickering during character selection). No known issue afterwards."
+      }
+    ]
+  },
+  {
+    "title": "Zusar Vasar",
+    "tags": [],
+    "linked_issues": [],
+    "status_reports": [
+      {
+        "version": "0.6.3-dev",
+        "commit": "3b7dc63fd32c17705ae95e9fc16ff81da027386a",
+        "game_version": "T43301M   V1.002",
         "status": "Playable",
         "notes": "No known issue."
       }
