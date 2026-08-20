@@ -3620,10 +3620,13 @@
   {
     "title": "Tech Romancer",
     "aka": [
-      "Kikaioh"
+      "Kikaioh",
+      "Chōkō Senki Kikaiōh"
     ],
     "tags": [],
-    "linked_issues": [],
+    "linked_issues": [
+      295
+    ],
     "status_reports": [
       {
         "version": "0.6.0+",
